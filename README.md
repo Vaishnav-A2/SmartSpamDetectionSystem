@@ -46,11 +46,5 @@ NLP techniques
 HTML/CSS
 
 Objective:
+
 The goal of this project is to demonstrate how machine learning and NLP can be used to understand human language and automatically classify text based on its meaning and emotional context.
-
-GitHub short descriptions:
-
-Smart Spam Detection System:
-Machine learning web app that detects spam messages using NLP and classification algorithms.
-Sentiment Analysis Web Application:
-NLP-based web application that classifies text sentiment as positive, negative, or neutral using machine learning.
