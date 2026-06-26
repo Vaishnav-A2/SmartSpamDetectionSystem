@@ -1,6 +1,4 @@
-# Internship Full Stack Projects Report
-
-##Overview
+# Overview
 Two full-stack web applications were developed during the internship, combining Python-based machine learning with interactive web interfaces to deliver real-time predictions.
 
 ## 1 .Smart Spam Detection System
